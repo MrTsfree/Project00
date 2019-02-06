@@ -14,6 +14,8 @@ public class TeamCoolCats extends Team {
 
     public void createTeamMembers(){
         members.add(new FreemanMember("Trae Freeman"));
+        members.add(new NorwoodMember("Kylie Norwood"));
+        members.add(new SchmallMember("Kiersten Schmall"));
     }
 
 
